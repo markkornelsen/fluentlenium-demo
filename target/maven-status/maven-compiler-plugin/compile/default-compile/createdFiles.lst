@@ -1,0 +1,4 @@
+test/java/FluentleniumTest.class
+test/java/pages/DuckDuckGoHomePage.class
+test/java/pages/DuckDuckGoResultsPage.class
+test/java/SeleniumBasicTest.class
